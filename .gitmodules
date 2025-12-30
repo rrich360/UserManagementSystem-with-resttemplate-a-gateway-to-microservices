@@ -1,0 +1,3 @@
+[submodule "UserManagementApp-SpringMVC-AngularJS-MySQL"]
+	path = UserManagementApp-SpringMVC-AngularJS-MySQL
+	url = https://github.com/rrich360/UserManagementApp-SpringMVC-AngularJS-MySQL.git

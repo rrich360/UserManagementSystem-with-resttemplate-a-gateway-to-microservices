@@ -1,0 +1,8 @@
+com\provider\service\UserClientService.class
+com\provider\service\UserClientService$1.class
+com\provider\controller\ProviderViewController.class
+com\provider\config\ProviderAppConfig.class
+com\provider\config\ProviderAppInitializer.class
+com\provider\config\RestTemplateConfig.class
+com\provider\model\UserDTO.class
+com\provider\controller\ProviderController.class
