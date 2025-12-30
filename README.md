@@ -1,0 +1,1 @@
+Please visit my blog for a full demonstration of this project on the following website:  https://medium.com/@roger.richards07/building-a-full-stack-spring-mvc-application-with-resttemplate-a-gateway-to-microservices-88666c07cf86
