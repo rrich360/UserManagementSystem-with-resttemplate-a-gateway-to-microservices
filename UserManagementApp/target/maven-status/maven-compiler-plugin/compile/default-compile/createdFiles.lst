@@ -1,0 +1,9 @@
+com\usermanagement\example\config\AppConfig.class
+com\usermanagement\example\controller\UserController.class
+com\usermanagement\example\controller\ViewController.class
+com\usermanagement\example\config\DataInitializer.class
+com\usermanagement\example\repository\UserRepository.class
+com\usermanagement\example\service\UserService.class
+com\usermanagement\example\config\AppInitializer.class
+com\usermanagement\example\model\User.class
+com\usermanagement\example\config\DatabaseConfig.class
